@@ -1,0 +1,24 @@
+﻿Game Project: The Bottom of the Deepest Dungeon
+Creator: Isaiah Lopez (izzy2001 on itch.io)
+Version: 2.0
+Date: 5/18/2025
+
+
+New features
+* A map room has been added to the dungeon so players can get a better idea of the overall layout.
+* One additional world building room was added.
+﻿
+Fixes
+* ﻿Some grass sprites were in the same place in close rooms, they have been varied a bit.
+* Some tiles that outlined the room were missing, those were fixed.
+﻿
+Improvements (of existing features)
+* ﻿Movement system has changed from a rhythm game-like layout to a minimap on the bottom left of the screen.
+* Rooms have been given various color schemes to assist with helping players keep track of where they are.
+
+
+Known Bugs
+* None as of yet.
+
+
+﻿
