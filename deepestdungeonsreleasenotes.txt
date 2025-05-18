@@ -1,5 +1,5 @@
 ﻿Game Project: The Bottom of the Deepest Dungeon
-Creator: Isaiah Lopez (izzy2001 on itch.io)
+Creator: izzy2001
 Version: 2.0
 Date: 5/18/2025
 
